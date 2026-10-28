@@ -1,0 +1,4 @@
+db.url=jdbc:mysql://localhost:3306/adyapana
+db.username=root
+db.password=Dhanika_22
+
