@@ -221,4 +221,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 **DhanikaJ**  
-GitHub: [https://github.com/DhanikaJ](https://github.com/DhanikaJ)
+Portfolio: [https://dhanikaj.dev](https://dhanikaj.dev)
