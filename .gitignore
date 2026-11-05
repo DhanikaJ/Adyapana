@@ -1,2 +1,12 @@
+# Build outputs
+/build/
 /dist/
+*.class
+
+# NetBeans IDE private/user-specific config
+/nbproject/private/
+
+# Config files containing secrets - use .example files instead
 src/Model/config.properties.txt
+src/Model/test.config.properties.txt
+build/classes/Model/config.properties.txt
